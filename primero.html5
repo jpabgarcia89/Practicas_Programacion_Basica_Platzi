@@ -1,0 +1,23 @@
+<html>
+<head>
+  <title>Mi primer archivo HTML </title>
+  <style type="text/css">
+  <body>
+    {
+      background-color: blue;
+      color: white; 
+    }
+  </body>
+  </style>
+</head>
+<body>
+  <p>Hola <strong>mamá, ya casi</strong> aprendo</p>
+  <p>Este es otro párrafo</p>
+  <script>
+    var x = 1
+    var y = 2
+    var Pedro_Perez = x + y;
+    document.write("el valor de z es " + Pedro_Perez);
+    </script>
+</body>
+</html>
